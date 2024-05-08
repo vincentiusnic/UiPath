@@ -28,8 +28,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureConfigureRobot": [
@@ -60,8 +59,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureCreateIPConfiguration": [
@@ -92,8 +90,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureCreateNetworkInterface": [
@@ -124,8 +121,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureCreateNetworkSecurityGroup": [
@@ -156,8 +152,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureCreateResourceGroup": [
@@ -188,8 +183,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureCreateSecurityRule": [
@@ -220,8 +214,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureCreateStorageAccount": [
@@ -252,8 +245,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureCreateVirtualMachine": [
@@ -284,8 +276,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureDeleteIPConfiguration": [
@@ -316,8 +307,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureDeleteKeyVaultSecret": [
@@ -348,8 +338,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureDeleteNetworkInterface": [
@@ -380,8 +369,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureDeleteNetworkSecurityGroup": [
@@ -412,8 +400,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureDeleteResourceGroup": [
@@ -444,8 +431,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureDeleteSecurityRule": [
@@ -476,8 +462,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureDeleteStorageAccount": [
@@ -508,8 +493,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureDeleteVirtualMachine": [
@@ -540,8 +524,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureDetachDataDisk": [
@@ -572,8 +555,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureForEachNetworkInterface": [
@@ -604,8 +586,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureForEachNetworkSecurityGroup": [
@@ -636,8 +617,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureForEachRow": [
@@ -668,8 +648,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureForEachSecurityAlert": [
@@ -700,8 +679,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetDisk": [
@@ -732,8 +710,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetDiskList": [
@@ -764,8 +741,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetKeyVaultSecrets": [
@@ -796,8 +772,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetNetworkInterface": [
@@ -828,8 +803,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetNetworkSecurityGroup": [
@@ -860,8 +834,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetNSGNetworkInterfaceList": [
@@ -892,8 +865,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetRdpFiles": [
@@ -924,8 +896,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetResourceGroup": [
@@ -956,8 +927,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetResourceGroupList": [
@@ -988,8 +958,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetSecurityAlert": [
@@ -1020,8 +989,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetSecurityRule": [
@@ -1052,8 +1020,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetSecurityRuleList": [
@@ -1084,8 +1051,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetStorageAccount": [
@@ -1116,8 +1082,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetStorageAccountKey": [
@@ -1148,8 +1113,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetStorageAccountList": [
@@ -1180,8 +1144,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetVirtualMachine": [
@@ -1212,8 +1175,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetVirtualMachineCustomImage": [
@@ -1244,8 +1206,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetVirtualMachineCustomImageList": [
@@ -1276,8 +1237,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetVirtualMachineDiskList": [
@@ -1308,8 +1268,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetVirtualMachineImageByPublisher": [
@@ -1340,8 +1299,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetVirtualMachineList": [
@@ -1372,8 +1330,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetVMNetworkInterfaceList": [
@@ -1404,8 +1361,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureGetVMNetworkSecurityGroupList": [
@@ -1436,8 +1392,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureRegenerateStorageAccountKey": [
@@ -1468,8 +1423,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureRestartVirtualMachine": [
@@ -1500,8 +1454,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureRunScriptInVirtualMachine": [
@@ -1532,8 +1485,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureSetSecurityAlertState": [
@@ -1564,8 +1516,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureShutdownVirtualMachine": [
@@ -1596,8 +1547,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureStartVirtualMachine": [
@@ -1628,8 +1578,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Azure.Activities.AzureStopVirtualMachine": [
@@ -1660,8 +1609,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.AddAndProcessQueueItem": [
@@ -1682,8 +1630,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.AddQueueItem": [
@@ -1704,8 +1651,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.AddTransactionItem": [
@@ -1726,8 +1672,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.BeginProcess": [
@@ -1742,8 +1687,7 @@
             "Value": "FolderPath",
             "ValueSource": "Property"
           }
-        },
-        "DefaultValueSource": "Default"
+        }
       }
     ],
     "UiPath.Core.Activities.BulkAddQueueItems": [
@@ -1764,8 +1708,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.DeleteQueueItems": [
@@ -1782,8 +1725,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.GetJobs": [
@@ -1800,8 +1742,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.GetQueueItem": [
@@ -1822,8 +1763,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.GetQueueItems": [
@@ -1844,8 +1784,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.GetRobotAsset": [
@@ -1866,8 +1805,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.GetRobotCredential": [
@@ -1888,8 +1826,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.GetTransactionItem": [
@@ -1904,8 +1841,7 @@
             "Value": "FolderPath",
             "ValueSource": "Property"
           }
-        },
-        "DefaultValueSource": "Default"
+        }
       }
     ],
     "UiPath.Core.Activities.InvokeProcess": [
@@ -1926,8 +1862,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.PostponeTransactionItem": [
@@ -1944,8 +1879,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.QueueTrigger": [
@@ -1980,8 +1914,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.SetAsset": [
@@ -2002,8 +1935,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.SetCredential": [
@@ -2024,8 +1956,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.SetTransactionProgress": [
@@ -2042,8 +1973,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.SetTransactionStatus": [
@@ -2060,8 +1990,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.StartJob": [
@@ -2082,8 +2011,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.StopJob": [
@@ -2100,8 +2028,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.Storage.DeleteStorageFile": [
@@ -2122,8 +2049,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.Storage.DownloadStorageFile": [
@@ -2144,8 +2070,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.Storage.ListStorageFiles": [
@@ -2166,8 +2091,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.Storage.ReadStorageText": [
@@ -2188,8 +2112,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.Storage.UploadStorageFile": [
@@ -2210,8 +2133,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.Storage.WriteStorageText": [
@@ -2232,8 +2154,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.TimeTrigger": [
@@ -2255,8 +2176,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.Core.Activities.WaitQueueItem": [
@@ -2277,8 +2197,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPConfigureRobot": [
@@ -2309,8 +2228,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPCopyObject": [
@@ -2341,8 +2259,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPCreateBucket": [
@@ -2373,8 +2290,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPCreateInstance": [
@@ -2405,8 +2321,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPCreateInstanceFromTemplate": [
@@ -2437,8 +2352,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPCreateRole": [
@@ -2469,8 +2383,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPDeleteBucket": [
@@ -2501,8 +2414,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPDeleteInstance": [
@@ -2533,8 +2445,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPDeleteObject": [
@@ -2565,8 +2476,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPDeleteRole": [
@@ -2597,8 +2507,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPDownloadObject": [
@@ -2629,8 +2538,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPForEachBucket": [
@@ -2661,8 +2569,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPForEachGrantableRole": [
@@ -2693,8 +2600,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPForEachInstance": [
@@ -2725,8 +2631,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPForEachObjectInBucket": [
@@ -2757,8 +2662,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPForEachProject": [
@@ -2789,8 +2693,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPForEachRole": [
@@ -2821,8 +2724,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPGetBucket": [
@@ -2853,8 +2755,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPGetIAMPolicy": [
@@ -2885,8 +2786,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPGetInstance": [
@@ -2917,8 +2817,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPGetObject": [
@@ -2949,8 +2848,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPGetProject": [
@@ -2981,8 +2879,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPGetRole": [
@@ -3013,8 +2910,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPGetSecretData": [
@@ -3045,8 +2941,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPResetInstance": [
@@ -3077,8 +2972,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPRunScriptOnInstance": [
@@ -3109,8 +3003,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPSetIAMPolicy": [
@@ -3141,8 +3034,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPStartInstance": [
@@ -3173,8 +3065,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPStopInstance": [
@@ -3205,8 +3096,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPUndeleteRole": [
@@ -3237,8 +3127,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPUpdateBucketProperties": [
@@ -3269,8 +3158,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPUpdateRole": [
@@ -3301,8 +3189,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GoogleCloud.Activities.GCPUploadObject": [
@@ -3333,8 +3220,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.AddSheetConnections": [
@@ -3401,11 +3287,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.ApplyEmailLabelsConnections": [
@@ -3436,8 +3320,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.ApplyFileLabelsConnections": [
@@ -3468,8 +3351,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.ArchiveEmailConnections": [
@@ -3500,8 +3382,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.Calendar.Triggers.EventReplied": [
@@ -3544,8 +3425,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.Calendar.Triggers.EventUpdated": [
@@ -3588,8 +3468,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.Calendar.Triggers.NewEventCreated": [
@@ -3632,8 +3511,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.Calendar.Triggers.NewEventInvitationReceived": [
@@ -3676,8 +3554,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.CopyFileConnections": [
@@ -3744,8 +3621,7 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           },
           {
             "Type": "Property",
@@ -3782,11 +3658,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.CreateEventConnections": [
@@ -3853,11 +3727,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.CreateFolderConnections": [
@@ -3924,11 +3796,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.CreateSpreadsheetConnections": [
@@ -3995,11 +3865,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.DeleteColumnConnections": [
@@ -4066,11 +3934,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.DeleteEmailConnections": [
@@ -4101,8 +3967,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.DeleteEventConnections": [
@@ -4133,8 +3998,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.DeleteFileOrFolderConnections": [
@@ -4201,11 +4065,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.DeleteRangeConnections": [
@@ -4272,11 +4134,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.DeleteRowsConnections": [
@@ -4343,11 +4203,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.DeleteSheetConnections": [
@@ -4414,11 +4272,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.Docs.GoogleDocsApplicationScope": [
@@ -4449,8 +4305,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.DownloadAttachmentsConnections": [
@@ -4481,8 +4336,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.DownloadEmailConnections": [
@@ -4513,8 +4367,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.DownloadFileConnections": [
@@ -4581,11 +4434,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.Drive.GoogleDriveApplicationScope": [
@@ -4616,8 +4467,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.Drive.Triggers.FileUpdated": [
@@ -4700,11 +4550,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.Drive.Triggers.NewFileCreated": [
@@ -4787,11 +4635,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.Drive.Triggers.NewFolderCreated": [
@@ -4874,11 +4720,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.FindAndReplaceTextConnections": [
@@ -4945,11 +4789,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.ForEachEmailConnections": [
@@ -5016,11 +4858,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.ForEachEventConnections": [
@@ -5087,11 +4927,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.ForEachFileFolderConnections": [
@@ -5158,11 +4996,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.ForEachRowConnections\u00601": [
@@ -5229,11 +5065,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.ForEachSheetConnections": [
@@ -5300,11 +5134,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.ForwardEmailConnections": [
@@ -5335,8 +5167,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.ForwardEventConnections": [
@@ -5367,8 +5198,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.GetDriveLabelsConnections": [
@@ -5399,8 +5229,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.GetEmailByIdConnections": [
@@ -5431,8 +5260,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.GetEmailListConnections": [
@@ -5499,11 +5327,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.GetEventListConnections": [
@@ -5570,11 +5396,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.GetFileFolderConnections": [
@@ -5641,8 +5465,7 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           },
           {
             "Type": "Property",
@@ -5679,11 +5502,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.GetFileLabelsConnections": [
@@ -5750,11 +5571,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.GetFileListConnections": [
@@ -5821,11 +5640,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.GetNewestEmailConnections": [
@@ -5892,11 +5709,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.Gmail.Triggers.EmailSent": [
@@ -5939,8 +5754,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.Gmail.Triggers.NewEmailReceived": [
@@ -6019,11 +5833,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.MarkAsReadUnreadConnections": [
@@ -6054,8 +5866,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.ModifyEventConnections": [
@@ -6086,8 +5897,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.MoveEmailConnections": [
@@ -6154,11 +5964,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.MoveFileConnections": [
@@ -6225,8 +6033,7 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           },
           {
             "Type": "Property",
@@ -6263,11 +6070,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.ReadCellConnections\u00601": [
@@ -6334,11 +6139,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.ReadRangeConnections\u00601": [
@@ -6405,11 +6208,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.RemoveEmailLabelsConnections": [
@@ -6440,8 +6241,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.RemoveFileLabelsConnections": [
@@ -6472,8 +6272,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.RenameSheetConnections": [
@@ -6540,11 +6339,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.ReplyToEmailConnections": [
@@ -6575,8 +6372,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.RsvpConnections": [
@@ -6607,8 +6403,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.SendEmailConnections": [
@@ -6639,8 +6434,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.ShareFileFolderConnections": [
@@ -6707,11 +6501,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.Sheets.GoogleSheetsApplicationScope": [
@@ -6742,8 +6534,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.Sheets.Triggers.RowAddedToSheetBottom\u00601": [
@@ -6834,8 +6625,7 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           },
           {
             "Type": "Property",
@@ -6880,11 +6670,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.Sheets.Triggers.SheetCellUpdated": [
@@ -6975,8 +6763,7 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           },
           {
             "Type": "Property",
@@ -7025,11 +6812,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.Sheets.Triggers.SheetCreated": [
@@ -7120,11 +6905,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.TurnOffAutomaticRepliesConnections": [
@@ -7155,8 +6938,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.TurnOnAutomaticRepliesConnections": [
@@ -7187,8 +6969,7 @@
             "ValueSource": "Property"
           }
         },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.GSuite.Activities.UploadFilesConnections": [
@@ -7255,11 +7036,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.WriteCellConnections": [
@@ -7326,11 +7105,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.WriteColumnConnections": [
@@ -7397,11 +7174,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.WriteRangeConnections": [
@@ -7468,11 +7243,9 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.GSuite.Activities.WriteRowConnections": [
@@ -7539,27 +7312,21 @@
                 "ValueSource": "Constant"
               }
             },
-            "SubBindings": [],
-            "DefaultValueSource": "Property"
+            "SubBindings": []
           }
-        ],
-        "DefaultValueSource": "Property"
+        ]
       }
     ],
     "UiPath.IntegrationService.Activities.Runtime.Activities.ConnectorActivity": [
       {
         "PublishNullValues": false,
-        "SubBindings": [],
-        "FromInstanceProperty": "BindingsJson",
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ],
     "UiPath.IntegrationService.Activities.Runtime.Activities.ConnectorTriggerActivity": [
       {
         "PublishNullValues": false,
-        "SubBindings": [],
-        "FromInstanceProperty": "BindingsJson",
-        "DefaultValueSource": "Property"
+        "SubBindings": []
       }
     ]
   }
